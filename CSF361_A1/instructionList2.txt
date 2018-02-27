@@ -1,0 +1,7 @@
+wrte Hal Hobj 
+rad Hal 
+te Lyle Lobj 10
+read Lyle obj
+I like candy
+read
+write

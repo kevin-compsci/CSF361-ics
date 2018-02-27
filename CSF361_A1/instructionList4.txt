@@ -1,0 +1,10 @@
+write lily susan 20
+write Lyle Hobj 100
+read Lyle Lobj
+
+write Hal Hobj 100
+read Hal Lobj
+
+read Hal Hobj
+read Lyle Lobj
+read susan lily
